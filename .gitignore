@@ -1,0 +1,4 @@
+# Ignore Virtual Environment
+GeezToAmharicBackend/ 
+# Ignore cache files
+__pycache__/
